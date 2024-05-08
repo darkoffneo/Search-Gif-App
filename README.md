@@ -1,8 +1,7 @@
-# React + Vite
+# SearchGifApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esta es una aplicacion realizada para aprender mas sobre REACT
+estoy usando vite y yarn y uso la API de GIPHY para obtener gifs
+de acuerdo a lo que coloque en mi barra de busqueda, aqui aprendi 
+el uso de useState, useEffect y a crear hooks personalizados
+ademas practique sobre la comunicacion entre componentes y la renderizacion de los mismos al igual que un hice mi primer esqueleto de carga para funciones fetch asincronas renderizando el componente "GifsLoading" mientras las imagenes cargar (esto lo hice usando @keyframes y animacion en css lo cual fue bastante interesante al ser algo nuevo para mi)
